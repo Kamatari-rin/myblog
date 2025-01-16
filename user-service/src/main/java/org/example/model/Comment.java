@@ -21,4 +21,7 @@ public class Comment {
     private Long userId;
 
     private Long parentCommentId;
+
+    private Long createdAt;
+    private Long updatedAt;
 }
